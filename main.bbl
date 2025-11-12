@@ -1,0 +1,145 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{enacademic_weir}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49e5313c42f7edd822f0dfb2349da440}{%
+           family={{En-Academic}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{49e5313c42f7edd822f0dfb2349da440}
+      \strng{fullhash}{49e5313c42f7edd822f0dfb2349da440}
+      \strng{bibnamehash}{49e5313c42f7edd822f0dfb2349da440}
+      \strng{authorbibnamehash}{49e5313c42f7edd822f0dfb2349da440}
+      \strng{authornamehash}{49e5313c42f7edd822f0dfb2349da440}
+      \strng{authorfullhash}{49e5313c42f7edd822f0dfb2349da440}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Weir --- Wikipedia Article Extract}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb en-academic.com/dic.nsf/enwiki/3979547
+      \endverb
+      \verb{url}
+      \verb en-academic.com/dic.nsf/enwiki/3979547
+      \endverb
+    \endentry
+    \entry{coolgeography_channelcharacteristics}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea3846c2e52d00ea137aa4557ffdac4a}{%
+           family={{Cool Geography}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea3846c2e52d00ea137aa4557ffdac4a}
+      \strng{fullhash}{ea3846c2e52d00ea137aa4557ffdac4a}
+      \strng{bibnamehash}{ea3846c2e52d00ea137aa4557ffdac4a}
+      \strng{authorbibnamehash}{ea3846c2e52d00ea137aa4557ffdac4a}
+      \strng{authornamehash}{ea3846c2e52d00ea137aa4557ffdac4a}
+      \strng{authorfullhash}{ea3846c2e52d00ea137aa4557ffdac4a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Channel Characteristics}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.coolgeography.co.uk/A-level/AQA/Year%2012/Rivers_Floods/Channel%20characteristics/Channel%20Characteristics.htm
+      \endverb
+      \verb{url}
+      \verb www.coolgeography.co.uk/A-level/AQA/Year%2012/Rivers_Floods/Channel%20characteristics/Channel%20Characteristics.htm
+      \endverb
+    \endentry
+    \entry{googlemaps_darmstadt}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=addefca19981affa2ff560e5262683de}{%
+           family={{Google Maps}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{addefca19981affa2ff560e5262683de}
+      \strng{fullhash}{addefca19981affa2ff560e5262683de}
+      \strng{bibnamehash}{addefca19981affa2ff560e5262683de}
+      \strng{authorbibnamehash}{addefca19981affa2ff560e5262683de}
+      \strng{authornamehash}{addefca19981affa2ff560e5262683de}
+      \strng{authorfullhash}{addefca19981affa2ff560e5262683de}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Custom Map}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.google.com/maps/d/u/0/edit?hl=en&mid=13mIXy6OuHaYl69ymIg2rAo0mcGSblOY&ll=49.782785584045754%2C8.5485319192383&z=12
+      \endverb
+      \verb{url}
+      \verb www.google.com/maps/d/u/0/edit?hl=en&mid=13mIXy6OuHaYl69ymIg2rAo0mcGSblOY&ll=49.782785584045754%2C8.5485319192383&z=12
+      \endverb
+    \endentry
+    \entry{internetgeography_riverfieldwork}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=495cae869713feb542ecc581bdd44bd3}{%
+           family={{Internet Geography}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{495cae869713feb542ecc581bdd44bd3}
+      \strng{fullhash}{495cae869713feb542ecc581bdd44bd3}
+      \strng{bibnamehash}{495cae869713feb542ecc581bdd44bd3}
+      \strng{authorbibnamehash}{495cae869713feb542ecc581bdd44bd3}
+      \strng{authornamehash}{495cae869713feb542ecc581bdd44bd3}
+      \strng{authorfullhash}{495cae869713feb542ecc581bdd44bd3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{River Fieldwork Techniques}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.internetgeography.net/fieldwork/river-fieldwork-techniques/
+      \endverb
+      \verb{url}
+      \verb www.internetgeography.net/fieldwork/river-fieldwork-techniques/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

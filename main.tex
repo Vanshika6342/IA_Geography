@@ -1,0 +1,92 @@
+\documentclass[12pt]{article}
+
+% ---------- Packages ----------
+\usepackage[utf8]{inputenc}     % UTF-8 encoding
+\usepackage[T1]{fontenc}        % Better font encoding
+\usepackage{lmodern}            % Improved font rendering
+\usepackage[margin=1in]{geometry} % 1-inch margins
+\usepackage{setspace}           % Line spacing
+\usepackage{parskip}            % No indent, spacing between paragraphs
+\usepackage{graphicx}           % For including images
+\usepackage[font=small,labelfont=bf]{caption}            % Better captions
+\usepackage{subcaption}         % Subfigures
+\usepackage{float}              % Improved float handling
+\usepackage{amsmath, amssymb}   % Math packages (if needed)
+\usepackage{mathtools}
+\usepackage{booktabs}           % Better tables
+\usepackage{hyperref}           % Clickable links
+\usepackage{fancyhdr}           % Headers and footers
+\usepackage{enumitem}           % Better lists
+\usepackage[backend=biber,style=mla]{biblatex} % APA citations (adjust if needed)
+\usepackage{graphicx}
+\usepackage{siunitx}
+\usepackage{tikz}
+\usepackage{tabularx}
+\usepackage{pgfplots}
+\usepackage[version=3]{mhchem}
+\usepackage{pdftexcmds}
+\usepackage{chemfig}
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{cleveref}
+\usepackage{multirow}
+\pgfplotsset{compat=1.18}
+\usepackage{listings}
+\usepackage{xcolor}
+
+
+
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+
+
+% ---------- Bibliography ----------
+\addbibresource{references.bib}  % Create this file for your sources
+
+% ---------- Line Spacing ----------
+\doublespacing
+
+% ---------- Document ----------
+
+
+\begin{document}
+	
+	\begin{titlepage}
+		\centering
+			\textbf{Internal Assessment \textemdash\ Geography SL}
+			
+			\vspace*{1.5cm}
+			
+				% Title
+			{\Huge \bfseries To what extent does the River Modau conform to the Bradshaw Model? \par}
+			\vspace{2cm}
+		
+			% Cover image
+		\includegraphics[width=0.7\textwidth]{Images/Cover_page_picture.jpg}\par\vspace{1.5cm}
+
+		% Candidate Code
+		{\large Candidate Code: \par}
+		\vspace{0.5cm}
+		
+		Word count:\\
+		
+	\end{titlepage}
+	
+	\tableofcontents
+	\include{intro}
+	\include{hypotheses}
+	\include{method}
+	\include{data}
+	\include{conclusion}
+	\include{evaluation}
+	\include{appendix}
+	\printbibliography
+	
+		
+		
+
+	
+	
+	
+\end{document}
+

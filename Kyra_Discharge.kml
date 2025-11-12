@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<!-- Processed by GE-Graph 2.2.1 -->
+<Document>
+<name>Kyra_Discharge</name>
+  <open>1</open>
+  <LookAt>
+    <longitude>8.5968335</longitude>
+    <latitude>49.781361</latitude>
+    <range>30831.5642768857</range>
+    <tilt>63</tilt>
+    <heading>-45</heading>
+  </LookAt>
+<Folder>
+  <open>0</open>
+ <name>Graph</name>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ffb2b2f6</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.72903536575432,49.7467957819072,350 8.72903536732267,49.7464822175861,350 8.72952063267732,49.7464822175861,350 8.72952063424567,49.7467957819072,350 8.72903536575432,49.7467957819072,350 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ffb2b2f6</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.72829475907047,49.7467518050387,370 8.7282947608886,49.7464141943739,370 8.72881723911141,49.7464141943739,370 8.72881724092952,49.7467518050387,370 8.72829475907047,49.7467518050387,370 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ff000080</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.63954089693847,49.8184959651978,4010 8.63954125279066,49.8137819199968,4010 8.64684674720934,49.8137819199968,4010 8.64684710306153,49.8184959651978,4010 8.63954089693847,49.8184959651978,4010 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ff7979d0</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.63895808518837,49.8147867484338,1536 8.6389581336372,49.8130472359349,1536 8.64165386636282,49.8130472359349,1536 8.64165391481162,49.8147867484338,1536 8.63895808518837,49.8147867484338,1536 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ffaaaaf1</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.63821424404637,49.8135613714957,514 8.63821424822295,49.8130506271567,514 8.63900575177704,49.8130506271567,514 8.63900575595362,49.8135613714957,514 8.63821424404637,49.8135613714957,514 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ffa9a9f0</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.63237484244385,49.8135282153963,552 8.63237484740104,49.8129717830044,552 8.63323715259895,49.8129717830044,552 8.63323715755616,49.8135282153963,552 8.63237484244385,49.8135282153963,552 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ffafaff4</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.6096228345852,49.8044852790385,434 8.60962283733541,49.804070720074,434 8.6102651626646,49.804070720074,434 8.61026516541481,49.8044852790385,434 8.6096228345852,49.8044852790385,434 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+<Placemark>
+   <Style>
+     <IconStyle><Icon><href>root://icons/palette-2.png</href><x>224</x><y>224</y><w>32</w><h>32</h></Icon></IconStyle>
+       <PolyStyle>
+         <color>ffc0c0ff</color>
+         <outline>1</outline>
+       </PolyStyle>
+      <LineStyle>
+         <color>ff1a1aff</color>
+      </LineStyle>
+   </Style>
+ <Polygon>
+    <extrude>1</extrude>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+       <coordinates>
+8.46438899999999,49.813833,89 8.46438899999999,49.813833,89 8.46438899999999,49.813833,89 8.46438899999999,49.813833,89 8.46438899999999,49.813833,89 
+       </coordinates>
+      </LinearRing>
+   </outerBoundaryIs>
+ </Polygon>
+</Placemark>
+</Folder>
+<ScreenOverlay>
+  <name>Title</name>
+  <Icon>
+    <href>Kyra_Discharge_title.bmp</href>
+    <viewBoundScale>0.75</viewBoundScale>
+  </Icon>
+  <overlayXY x="0.02" y="0.97"  xunits= "fraction"  yunits= "fraction" />
+  <screenXY x="0.02" y="0.97" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+ <Folder>
+  <open>0</open>
+ <name>Names/Values</name>
+ <Placemark>
+  <name>Site 1 - 0.17</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.729278,49.746639, 385</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+  <name>Site 2 - 0.18</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.728556 ,49.746583, 407</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+  <name>Site 3 - 2</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.643194,49.816139, 4411</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+  <name>Site 4 - 0.76</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.640306,49.813917, 1689.6</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+  <name>Site 5 - 0.25</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.63861,49.813306, 565.4</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+  <name>Site 6 - 0.27</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.632806,49.81325, 607.2</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+  <name>Site 7 - 0.21</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.609944,49.804278, 477.4</coordinates>
+    </Point>
+  </Placemark>
+ <Placemark>
+  <name>Site 8 - 0.04</name>
+  <Style>
+   <IconStyle><Icon>
+     </Icon></IconStyle>
+   <LabelStyle><color>ff1c1cff</color><scale>0.7</scale></LabelStyle>
+   </Style>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.464389,49.813833, 97.9</coordinates>
+    </Point>
+  </Placemark>
+ </Folder>
+</Document>
+</kml>
