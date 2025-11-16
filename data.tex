@@ -14,44 +14,9 @@
 	
 	\subsubsection{Results}
 	
-	\begin{table}[H]
-		\centering
-		\begin{tabularx}{0.55\textwidth}{l Y}
-			\hline
-			Sites & Average Velocity () \\
-			\hline
-			Site 1 & 0.5725 \\
-			Site 2 & 0.24 \\
-			Site 3 & 1.110 \\
-			Site 4 & 0.80 \\
-			Site 5 & 0.19 \\
-			Site 6 & 0.2325 \\
-			Site 7 & 0.2875 \\
-			Site 8 & 0.03334 \\
-			\hline
-		\end{tabularx}
-		\caption{}
-		\label{tab:velocity_digital_processed}
-	\end{table}
-	
 	\begin{figure}[H]
 		\centering
-		\begin{tikzpicture}
-			\begin{axis}[
-				ybar,
-				xlabel={Sites},
-				ylabel={Average Velocity (m/s)},
-				symbolic x coords={Site 1,Site 2,Site 3,Site 4,Site 5,Site 6,Site 7,Site 8},
-				xtick=data,
-				bar width=10pt,
-				nodes near coords,
-				ymin=0,
-				width=\textwidth,
-				height=6cm
-				]
-				\addplot coordinates {(Site 1,0.5725) (Site 2,0.24) (Site 3,1.110) (Site 4,0.80) (Site 5,0.19) (Site 6,0.2325) (Site 7,0.2875) (Site 8,0.03334)};
-			\end{axis}
-		\end{tikzpicture}
+		\includegraphics[width=1.0\textwidth]{Images/AverageVelocity.png}
 		\caption{Average Velocity at Each Site}
 	\end{figure}
 	
@@ -69,45 +34,10 @@
 	\end{align*}
 
 	\subsubsection{Results}
-	
-	\begin{table}[H]
-		\centering
-		\begin{tabularx}{0.6\textwidth}{l Y}
-			\hline
-			Sites & Average \\
-			\hline
-			Site 1 & 2.02 \\
-			Site 2 & 4.19 \\
-			Site 3 & 4.403 \\
-			Site 4 & 5.296 \\
-			Site 5 & 7.016 \\
-			Site 6 & 5.613 \\
-			Site 7 & 3.873 \\
-			Site 8 & 4.24 \\
-			\hline
-		\end{tabularx}
-		\caption{}
-		\label{tab:width_processed}
-	\end{table}
 
 \begin{figure}[H]
 	\centering
-	\begin{tikzpicture}
-		\begin{axis}[
-			ybar,
-			xlabel={Sites},
-			ylabel={Average Width (m)},
-			symbolic x coords={Site 1,Site 2,Site 3,Site 4,Site 5,Site 6,Site 7,Site 8},
-			xtick=data,
-			bar width=10pt,
-			nodes near coords,
-			ymin=0,
-			width=\textwidth,
-			height=6cm
-			]
-			\addplot coordinates {(Site 1,2.02) (Site 2,4.19) (Site 3,4.403) (Site 4,5.296) (Site 5,7.016) (Site 6,5.613) (Site 7,3.873) (Site 8,4.24)};
-		\end{axis}
-	\end{tikzpicture}
+	\includegraphics[width=1.0\textwidth]{Images/AverageWidth.png}
 	\caption{Average Channel Width at Each Site}
 \end{figure}
 
@@ -125,46 +55,11 @@
 		D_{\text{Site 8}} &= 0.280 \text{ m}
 	\end{align*}
 	
-		\subsubsection{Results}
-		
-		\begin{table}[H]
-			\centering
-			\begin{tabularx}{0.55\textwidth}{l Y}
-				\hline
-				Sites & Average \\
-				\hline
-				Site 1 & 0.145 \\
-				Site 2 & 0.179 \\
-				Site 3 & 0.417 \\
-				Site 4 & 0.180 \\
-				Site 5 & 0.189 \\
-				Site 6 & 0.208 \\
-				Site 7 & 0.190 \\
-				Site 8 & 0.280 \\
-				\hline
-			\end{tabularx}
-			\caption{}
-			\label{tab:depth_processed}
-		\end{table}
+	\subsubsection{Results}
 
 \begin{figure}[H]
 	\centering
-	\begin{tikzpicture}
-		\begin{axis}[
-			ybar,
-			xlabel={Sites},
-			ylabel={Average Depth (m)},
-			symbolic x coords={Site 1,Site 2,Site 3,Site 4,Site 5,Site 6,Site 7,Site 8},
-			xtick=data,
-			bar width=10pt,
-			nodes near coords,
-			ymin=0,
-			width=\textwidth,
-			height=6cm
-			]
-			\addplot coordinates {(Site 1,0.145) (Site 2,0.179) (Site 3,0.417) (Site 4,0.180) (Site 5,0.189) (Site 6,0.208) (Site 7,0.190) (Site 8,0.280)};
-		\end{axis}
-	\end{tikzpicture}
+	\includegraphics[width=1.0\textwidth]{Images/AverageDepth.png}
 	\caption{Average Channel Depth at Each Site}
 \end{figure}
 
@@ -184,44 +79,10 @@
 
 	\subsubsection{Results}
 	
-	\begin{table}[H]
-		\centering
-		\begin{tabularx}{0.5\textwidth}{l Y}
-			\hline
-			Sites & Average \\
-			\hline
-			Site 1 & 2.03 \\
-			Site 2 & 2.96 \\
-			Site 3 & 6.91 \\
-			Site 4 & 5.02 \\
-			Site 5 & 6.75 \\
-			Site 6 & 6.33 \\
-			Site 7 & 3.53 \\
-			Site 8 & 4.67 \\
-			\hline
-		\end{tabularx}
-		\caption{}
-		\label{tab:wetted_processed}
-	\end{table}
-	
 	% Wetted Perimeter
 	\begin{figure}[H]
 		\centering
-		\begin{tikzpicture}
-			\begin{axis}[
-				title={Wetted Perimeter},
-				xlabel={Site},
-				ylabel={Average (m)},
-				xtick=data,
-				xticklabels={1,2,3,4,5,6,7,8},
-				ymajorgrids=true,
-				grid style=dashed
-				]
-				\addplot[ybar,fill=blue] coordinates {
-					(1,2.03) (2,2.96) (3,6.91) (4,5.02) (5,6.75) (6,6.33) (7,3.53) (8,4.67)
-				};
-			\end{axis}
-		\end{tikzpicture}
+		\includegraphics[width=1.0\textwidth]{Images/AverageWettedPerimeter.png}
 		\caption{Wetted Perimeter at Different Sites}
 	\end{figure}
 	
@@ -230,60 +91,33 @@
 	\subsubsection{Sample Calculations}
 	
 	\begin{align*}
-		A &= \text{Width} \times \text{Mean Depth} \\
-		A_{\text{Site 1}} &= 2.02 \times 2.02 = 4.08 \text{ m$^2$} \\
-		A_{\text{Site 2}} &= 4.19 \times 4.19 = 17.56 \text{ m$^2$} \\
+		A &= \text{Mean Width} \times \text{Mean Depth} \\
+		A_{\text{Site 1}} &= 2.02 \times 0.145 = 0.2929 \text{ m$^2$} \\
+		A_{\text{Site 2}} &= 4.19 \times 0.179 = 0.75001 \text{ m$^2$} \\
 		&\vdots \\
-		A_{\text{Site 8}} &= 4.24 \times 4.24 = 17.98 \text{ m$^2$}
+		A_{\text{Site 8}} &= 4.24 \times 0.28 = 1.1872 \text{ m$^2$}
 	\end{align*}
 	
 
 	\subsubsection{Results}
 	
-	\begin{table}[H]
-		\centering
-		\begin{tabularx}{\textwidth}{l *{3}{Y}}
-			\hline
-			Sites & Width (m) & Mean Depth (m) & Cross-sectional Area (m$^2$) \\
-			\hline
-			Site 1 & 2.02  & 2.02  & 4.08  \\
-			Site 2 & 4.19  & 4.19  & 17.56 \\
-			Site 3 & 4.403 & 4.403 & 19.39 \\
-			Site 4 & 5.296 & 5.296 & 28.05 \\
-			Site 5 & 7.016 & 7.016 & 49.22 \\
-			Site 6 & 5.613 & 5.613 & 31.51 \\
-			Site 7 & 3.873 & 3.873 & 15.00 \\
-			Site 8 & 4.24  & 4.24  & 17.98 \\
-			\hline
-		\end{tabularx}
-		\caption{}
-		\label{tab:cross_sectional_area}
-	\end{table}
-
-% Cross-Sectional Area
-\begin{figure}[H]
+	\begin{figure}[H]
 	\centering
-	\begin{tikzpicture}
-		\begin{axis}[
-			title={Cross-Sectional Area},
-			xlabel={Site},
-			ylabel={Area (m$^2$)},
-			xtick=data,
-			xticklabels={1,2,3,4,5,6,7,8},
-			ymajorgrids=true,
-			grid style=dashed
-			]
-			\addplot[ybar,fill=green] coordinates {
-				(1,4.08) (2,17.56) (3,19.39) (4,28.05) (5,49.22) (6,31.51) (7,15.00) (8,17.98)
-			};
-		\end{axis}
-	\end{tikzpicture}
+	\includegraphics[width=1.0\textwidth]{Images/Cross-SectionalArea.png}
 	\caption{Cross-Sectional Area at Different Sites}
 \end{figure}
 
 \subsection{Channel Efficiency}
 
 	\subsubsection{Sample Calculations}
+	
+	%\includegraphics[width=0.7\textwidth]{Images/xx.jpg}\par\vspace{1.5cm}
+	
+	\begin{enumerate}
+		\item Channel efficiency = Hydraulic radius -> The higher the radius, the greater the efficiency.
+		\item $\text{Cross-Sectional Area}\div\text{Wetted Perimeter} = \text{Hydraulic Radius}$
+	\end{enumerate}
+	
 	
 	\begin{align*}
 		R &= \frac{A}{P} \\
@@ -337,10 +171,18 @@
 \end{figure}
 
 \subsection{Discharge}
-
-	\subsubsection{Sample Calculations}
 	
 	\subsubsection{Sample Calculations}
+	
+	\subsection{River Discharge}
+	
+	\begin{enumerate}
+		\item $\text{Discharge (cumecs)}= \text{Cross-Sectional Area}\ (\si{\metre\squared}) \times \text{Velocity}\ (\si{\metre\per\second})$
+		\item Use mean depth and mean width to measure cross-sectional area (\si{\metre\squared}).
+		\item Measure velocity either through digital flow-meter or with a stopwatch, a cork,measuring tape and ranging poles ($\times 4$)
+		\item Then use the average velocity and multiply it by the area to get the discharge
+	\end{enumerate}
+	
 	\begin{align*}
 		Q &= A \times \bar{v} \\
 		Q_{\text{Site 1}} &= 4.08 \times 0.5725 = 2.34 \text{ m$^3$/s} \\
@@ -406,45 +248,10 @@
 	
 		\subsubsection{Results}
 		
-		\begin{table}[H]
-			\centering
-			\begin{tabularx}{0.55\textwidth}{l Y}
-				\hline
-				Sites & Average \\
-				\hline
-				Site 1 & 90.20 \\
-				Site 2 & 84.40 \\
-				Site 3 & 69.20 \\
-				Site 4 & 68.90 \\
-				Site 5 & 38.30 \\
-				Site 6 & 43.90 \\
-				Site 7 & 23.00 \\
-				Site 8 & 17.60 \\
-				\hline
-			\end{tabularx}
-			\caption{}
-			\label{tab:bedload_processed}
-		\end{table}
-		
-		
 % Bedload Size
 	\begin{figure}[H]
 		\centering
-		\begin{tikzpicture}
-			\begin{axis}[
-				title={Bedload Size},
-				xlabel={Site},
-				ylabel={Average (mm)},
-				xtick=data,
-				xticklabels={1,2,3,4,5,6,7,8},
-				ymajorgrids=true,
-				grid style=dashed
-				]
-				\addplot[ybar,fill=purple] coordinates {
-					(1,90.20) (2,84.40) (3,69.20) (4,68.90) (5,38.30) (6,43.90) (7,23.00) (8,17.60)
-					};
-		\end{axis}
-		\end{tikzpicture}
+		\includegraphics[width=1.0\textwidth]{Images/AverageBedloadSize.png}
 		\caption{Bedload Size at Different Sites}
 		\end{figure}
 		

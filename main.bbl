@@ -49,6 +49,33 @@
       \verb en-academic.com/dic.nsf/enwiki/3979547
       \endverb
     \endentry
+    \entry{clastify2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=571e3a45c70c7f3afc10b1d99bf1db80}{%
+           family={Clastify},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{571e3a45c70c7f3afc10b1d99bf1db80}
+      \strng{fullhash}{571e3a45c70c7f3afc10b1d99bf1db80}
+      \strng{bibnamehash}{571e3a45c70c7f3afc10b1d99bf1db80}
+      \strng{authorbibnamehash}{571e3a45c70c7f3afc10b1d99bf1db80}
+      \strng{authornamehash}{571e3a45c70c7f3afc10b1d99bf1db80}
+      \strng{authorfullhash}{571e3a45c70c7f3afc10b1d99bf1db80}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-11-16}
+      \field{title}{IB Geography Syllabus Topics}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb www.clastify.com/blog/ib-geography-syllabus-topics
+      \endverb
+      \verb{url}
+      \verb www.clastify.com/blog/ib-geography-syllabus-topics
+      \endverb
+    \endentry
     \entry{coolgeography_channelcharacteristics}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ea3846c2e52d00ea137aa4557ffdac4a}{%
@@ -77,6 +104,33 @@
       \endverb
       \verb{url}
       \verb www.coolgeography.co.uk/A-level/AQA/Year%2012/Rivers_Floods/Channel%20characteristics/Channel%20Characteristics.htm
+      \endverb
+    \endentry
+    \entry{fiveable2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=243f3fe8fbf406c032103a549c0488d9}{%
+           family={Fiveable},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{243f3fe8fbf406c032103a549c0488d9}
+      \strng{fullhash}{243f3fe8fbf406c032103a549c0488d9}
+      \strng{bibnamehash}{243f3fe8fbf406c032103a549c0488d9}
+      \strng{authorbibnamehash}{243f3fe8fbf406c032103a549c0488d9}
+      \strng{authornamehash}{243f3fe8fbf406c032103a549c0488d9}
+      \strng{authorfullhash}{243f3fe8fbf406c032103a549c0488d9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-11-16}
+      \field{title}{Bed Load}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb fiveable.me/key-terms/introduction-geology/bed-load
+      \endverb
+      \verb{url}
+      \verb fiveable.me/key-terms/introduction-geology/bed-load
       \endverb
     \endentry
     \entry{googlemaps_darmstadt}{online}{}
@@ -137,6 +191,60 @@
       \endverb
       \verb{url}
       \verb www.internetgeography.net/fieldwork/river-fieldwork-techniques/
+      \endverb
+    \endentry
+    \entry{mapsofindia2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56e0c73d19b524d213b41978312928b7}{%
+           family={MapsofIndia},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{56e0c73d19b524d213b41978312928b7}
+      \strng{fullhash}{56e0c73d19b524d213b41978312928b7}
+      \strng{bibnamehash}{56e0c73d19b524d213b41978312928b7}
+      \strng{authorbibnamehash}{56e0c73d19b524d213b41978312928b7}
+      \strng{authornamehash}{56e0c73d19b524d213b41978312928b7}
+      \strng{authorfullhash}{56e0c73d19b524d213b41978312928b7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-11-16}
+      \field{title}{Location Map of Hessen, Germany}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb www.mapsofindia.com/world-map/germany/hessen/location-map.html
+      \endverb
+      \verb{url}
+      \verb www.mapsofindia.com/world-map/germany/hessen/location-map.html
+      \endverb
+    \endentry
+    \entry{slideshare2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a46699da73c02d041033e5a4a0a641b9}{%
+           family={Slideshare},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a46699da73c02d041033e5a4a0a641b9}
+      \strng{fullhash}{a46699da73c02d041033e5a4a0a641b9}
+      \strng{bibnamehash}{a46699da73c02d041033e5a4a0a641b9}
+      \strng{authorbibnamehash}{a46699da73c02d041033e5a4a0a641b9}
+      \strng{authornamehash}{a46699da73c02d041033e5a4a0a641b9}
+      \strng{authorfullhash}{a46699da73c02d041033e5a4a0a641b9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-11-16}
+      \field{title}{Channel Efficiency of Rivers}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb www.slideshare.net/slideshow/channel-efficiency-rivers/36230678#5
+      \endverb
+      \verb{url}
+      \verb www.slideshare.net/slideshow/channel-efficiency-rivers/36230678#5
       \endverb
     \endentry
   \enddatalist
