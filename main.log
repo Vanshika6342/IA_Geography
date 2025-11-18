@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.7)  18 NOV 2025 17:34
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.7)  19 NOV 2025 00:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1353,10 +1353,55 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-\@quotelevel=\count497
-\@quotereset=\count498
+
+(C:\Users\kcavi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+(C:\Users\kcavi\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks54
+\verbatim@line=\toks55
+\verbatim@in@stream=\read4
+)
+(C:\Users\kcavi\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\kcavi\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box87
+\tcb@upperbox=\box88
+\tcb@lowerbox=\box89
+\tcb@phantombox=\box90
+\c@tcbbreakpart=\count497
+\c@tcblayer=\count498
+\c@tcolorbox@number=\count499
+\l__tcobox_tmpa_box=\box91
+\l__tcobox_tmpa_dim=\dimen346
+\tcb@temp=\box92
+\tcb@temp=\box93
+\tcb@temp=\box94
+\tcb@temp=\box95
+)
+(C:\Users\kcavi\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\kcavi\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\kcavi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+))
+\@quotelevel=\count500
+\@quotereset=\count501
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 52.
+
 (main.aux (intro.aux) (method.aux) (data.aux) (conclusion.aux) (evaluation.aux)
 (appendix.aux))
 \openout1 = `main.aux'.
@@ -1478,7 +1523,7 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 Package chemgreek Info: Activating mapping `default' on line 52.
 
-\c@lstlisting=\count499
+\c@lstlisting=\count502
 File: Images/Cover_page_picture.jpg Graphic file (type bmp)
 <Images/Cover_page_picture.jpg>
 [1
@@ -1536,13 +1581,15 @@ File: Images/Bradshaw_Model.png Graphic file (type bmp)
 <Images/Bradshaw_Model.png>
  [3
 
-]
+] [4]
 File: Images/ModauInHessen.jpg Graphic file (type bmp)
 <Images/ModauInHessen.jpg>
- [4]
+ [5]
 File: Images/ModauSites.png Graphic file (type bmp)
 <Images/ModauSites.png>
- [5] [6]
+
+Missing character: There is no ’ in font ec-lmr12!
+[6]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 48.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1566,69 +1613,100 @@ File: Images/digitalvelo_3.jpg Graphic file (type bmp)
 ]
 File: Images/WidthAcc.jpg Graphic file (type bmp)
 <Images/WidthAcc.jpg>
- [10
-
-]
+ [10] [11]
+File: Images/WidthAcc.jpg Graphic file (type bmp)
+<Images/WidthAcc.jpg>
+ [12]
 File: Images/DepthAcc.jpg Graphic file (type bmp)
 <Images/DepthAcc.jpg>
- [11] [12]
-[13]
+ [13] [14]
 File: Images/Bedloadmeasacc.jpg Graphic file (type bmp)
 <Images/Bedloadmeasacc.jpg>
-) [14]
+) [15
+
+]
 \openout2 = `data.aux'.
 
  (data.tex
 File: Images/AverageVelocity.png Graphic file (type bmp)
 <Images/AverageVelocity.png>
-File: Images/RiverDischarge.png Graphic file (type bmp)
-<Images/RiverDischarge.png>
- [15
+File: Images/CrossSec1.png Graphic file (type bmp)
+<Images/CrossSec1.png>
+File: Images/CrossSec2.png Graphic file (type bmp)
+<Images/CrossSec2.png>
+File: Images/CrossSec3.png Graphic file (type bmp)
+<Images/CrossSec3.png>
+File: Images/CrossSec4.png Graphic file (type bmp)
+<Images/CrossSec4.png>
+File: Images/CrossSec5.png Graphic file (type bmp)
+<Images/CrossSec5.png>
+File: Images/CrossSec6.png Graphic file (type bmp)
+<Images/CrossSec6.png>
+ [16
 
 
 
 ]
-File: Images/AverageWidth.png Graphic file (type bmp)
-<Images/AverageWidth.png>
- [16]
-File: Images/AverageDepth.png Graphic file (type bmp)
-<Images/AverageDepth.png>
-File: Images/RivDisOnDepthNWidth.png Graphic file (type bmp)
-<Images/RivDisOnDepthNWidth.png>
- [17]
-File: Images/RivDisOnDepth.png Graphic file (type bmp)
-<Images/RivDisOnDepth.png>
- [18]
+[17]
+File: Images/CrossSec7.png Graphic file (type bmp)
+<Images/CrossSec7.png>
+File: Images/CrossSec8.png Graphic file (type bmp)
+<Images/CrossSec8.png>
+
+Overfull \hbox (12.001pt too wide) in paragraph at lines 77--89
+[]$[]$  $[]$ 
+ []
+
 File: Images/AverageWettedPerimeter.png Graphic file (type bmp)
 <Images/AverageWettedPerimeter.png>
-File: Images/Cross-SectionalArea.png Graphic file (type bmp)
-<Images/Cross-SectionalArea.png>
+[18
+
+]
+File: Images/ChannelEfficiencyGraph.png Graphic file (type bmp)
+<Images/ChannelEfficiencyGraph.png>
+File: Images/VeloChan.png Graphic file (type bmp)
+<Images/VeloChan.png>
  [19]
-File: Images/Bedloadsize_GEGraph.png Graphic file (type bmp)
-<Images/Bedloadsize_GEGraph.png>
-) [20]
+File: Images/AverageWidth.png Graphic file (type bmp)
+<Images/AverageWidth.png>
+ [20]
+File: Images/AverageDepth.png Graphic file (type bmp)
+<Images/AverageDepth.png>
+ [21]
+File: Images/RiverDischarge.png Graphic file (type bmp)
+<Images/RiverDischarge.png>
+ [22]
+File: Images/RivDisOnDepthNWidth.png Graphic file (type bmp)
+<Images/RivDisOnDepthNWidth.png>
+File: Images/RivDisOnDepth.png Graphic file (type bmp)
+<Images/RivDisOnDepth.png>
+ [23]
+File: Images/GENew.jpg Graphic file (type bmp)
+<Images/GENew.jpg>
+ [24]) [25]
 \openout2 = `conclusion.aux'.
 
- (conclusion.tex) [21
+ (conclusion.tex) [26
 
 
 
 ]
 \openout2 = `evaluation.aux'.
 
+ (evaluation.tex
+Missing character: There is no – in font ec-lmr12!
+[27
 
-(evaluation.tex) [22
 
 
-
-]
+]) [28]
 \openout2 = `appendix.aux'.
 
- (appendix.tex [23
+ (appendix.tex [29
 
 
 
-] [24]) [25]
+] [30] [31]) [32]
 Overfull \hbox (4.53961pt too wide) in paragraph at lines 83--83
 \T1/lmr/m/n/12 13mIXy6OuHaYl69ymIg2rAo0mcGSblOY & ll = 49 . 782785584045754 % 2
 C8 . 5485319192383 &
@@ -1640,7 +1718,7 @@ Overfull \hbox (12.64545pt too wide) in paragraph at lines 83--83
 sed: 2025-11-16. []$www . mapso^^\ndia .
  []
 
-[26
+[33
 
 
 ] (main.aux (intro.aux) (method.aux) (data.aux) (conclusion.aux)
@@ -1650,18 +1728,18 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C8E0DBC53463C14575D23C5AD8B94798;3803.
+(rerunfilecheck)             Checksum: E2FE988F0A7952E980A0EDEFA2B5EC4F;4211.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50683 strings out of 409617
- 1156528 string characters out of 5774013
- 2101850 words of memory out of 5000000
- 72100 multiletter control sequences out of 15000+600000
- 637947 words of font info for 87 fonts, out of 8000000 for 9000
+ 52923 strings out of 409617
+ 1214935 string characters out of 5774013
+ 2152868 words of memory out of 5000000
+ 74310 multiletter control sequences out of 15000+600000
+ 642209 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,13n,93p,1131b,5350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (27 pages).
+Output written on main.pdf (34 pages).

@@ -220,6 +220,43 @@
       \verb www.mapsofindia.com/world-map/germany/hessen/location-map.html
       \endverb
     \endentry
+    \entry{seibert2022hbv}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cdb83e0e33b32a45822876f8369c6a6c}{%
+           family={Seibert},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d39eb4b618ab08da8cffc3ffce3374b0}{%
+           family={Bergström},
+           familyi={B\bibinitperiod},
+           given={Sten},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9081bb53cfa37abc20baf010ca64d35}
+      \strng{fullhash}{f9081bb53cfa37abc20baf010ca64d35}
+      \strng{bibnamehash}{f9081bb53cfa37abc20baf010ca64d35}
+      \strng{authorbibnamehash}{f9081bb53cfa37abc20baf010ca64d35}
+      \strng{authornamehash}{f9081bb53cfa37abc20baf010ca64d35}
+      \strng{authorfullhash}{f9081bb53cfa37abc20baf010ca64d35}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{number}{5}
+      \field{title}{A retrospective on hydrological catchment modelling based on half a century with the HBV model}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{pages}{1371\bibrangedash 1388}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.5194/hess-26-1371-2022
+      \endverb
+    \endentry
     \entry{slideshare2023}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a46699da73c02d041033e5a4a0a641b9}{%
@@ -245,6 +282,85 @@
       \endverb
       \verb{url}
       \verb www.slideshare.net/slideshow/channel-efficiency-rivers/36230678#5
+      \endverb
+    \endentry
+    \entry{spearman1904}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed852c40e9206ab5c99b48c4b9f2ab38}{%
+           family={Spearman},
+           familyi={S\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed852c40e9206ab5c99b48c4b9f2ab38}
+      \strng{fullhash}{ed852c40e9206ab5c99b48c4b9f2ab38}
+      \strng{bibnamehash}{ed852c40e9206ab5c99b48c4b9f2ab38}
+      \strng{authorbibnamehash}{ed852c40e9206ab5c99b48c4b9f2ab38}
+      \strng{authornamehash}{ed852c40e9206ab5c99b48c4b9f2ab38}
+      \strng{authorfullhash}{ed852c40e9206ab5c99b48c4b9f2ab38}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Journal of Psychology}
+      \field{number}{1}
+      \field{title}{The Proof and Measurement of Association Between Two Things}
+      \field{volume}{15}
+      \field{year}{1904}
+      \field{pages}{72\bibrangedash 101}
+      \range{pages}{30}
+    \endentry
+    \entry{telinde2008rhine}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2b5a88ad52caf62bb5e58614d71b57e3}{%
+           family={Linde},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0,
+           prefix={te},
+           prefixi={t\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=96c5bcac30db7b715758d434c59c0e94}{%
+           family={Aerts},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi C.\bibnamedelimi J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a3a8f45ff745ec54693ca4f7b43b318}{%
+           family={Hurkmans},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi T.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1bfff63b4ec2f74a3bf98a697d8dfcd}{%
+           family={Eberle},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f83b61855793c740f1a00e3320f06f6d}
+      \strng{fullhash}{3c2c9b64eb19289393147a216a3c1c50}
+      \strng{bibnamehash}{f83b61855793c740f1a00e3320f06f6d}
+      \strng{authorbibnamehash}{f83b61855793c740f1a00e3320f06f6d}
+      \strng{authornamehash}{f83b61855793c740f1a00e3320f06f6d}
+      \strng{authorfullhash}{3c2c9b64eb19289393147a216a3c1c50}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{number}{3}
+      \field{title}{Comparing model performance of two rainfall-runoff models in the Rhine basin using different atmospheric forcing data sets}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{pages}{943\bibrangedash 957}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.5194/hess-12-943-2008
       \endverb
     \endentry
   \enddatalist
