@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.7)  18 NOV 2025 15:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.7)  18 NOV 2025 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1581,6 +1581,8 @@ File: Images/Bedloadmeasacc.jpg Graphic file (type bmp)
  (data.tex
 File: Images/AverageVelocity.png Graphic file (type bmp)
 <Images/AverageVelocity.png>
+File: Images/RiverDischarge.png Graphic file (type bmp)
+<Images/RiverDischarge.png>
  [15
 
 
@@ -1591,18 +1593,23 @@ File: Images/AverageWidth.png Graphic file (type bmp)
  [16]
 File: Images/AverageDepth.png Graphic file (type bmp)
 <Images/AverageDepth.png>
+File: Images/RivDisOnDepthNWidth.png Graphic file (type bmp)
+<Images/RivDisOnDepthNWidth.png>
  [17]
+File: Images/RivDisOnDepth.png Graphic file (type bmp)
+<Images/RivDisOnDepth.png>
+ [18]
 File: Images/AverageWettedPerimeter.png Graphic file (type bmp)
 <Images/AverageWettedPerimeter.png>
 File: Images/Cross-SectionalArea.png Graphic file (type bmp)
 <Images/Cross-SectionalArea.png>
- [18]
+ [19]
 File: Images/Bedloadsize_GEGraph.png Graphic file (type bmp)
 <Images/Bedloadsize_GEGraph.png>
-) [19]
+) [20]
 \openout2 = `conclusion.aux'.
 
- (conclusion.tex) [20
+ (conclusion.tex) [21
 
 
 
@@ -1610,18 +1617,18 @@ File: Images/Bedloadsize_GEGraph.png Graphic file (type bmp)
 \openout2 = `evaluation.aux'.
 
 
-(evaluation.tex) [21
+(evaluation.tex) [22
 
 
 
 ]
 \openout2 = `appendix.aux'.
 
- (appendix.tex [22
+ (appendix.tex [23
 
 
 
-]) [23]
+] [24]) [25]
 Overfull \hbox (4.53961pt too wide) in paragraph at lines 83--83
 \T1/lmr/m/n/12 13mIXy6OuHaYl69ymIg2rAo0mcGSblOY & ll = 49 . 782785584045754 % 2
 C8 . 5485319192383 &
@@ -1633,7 +1640,7 @@ Overfull \hbox (12.64545pt too wide) in paragraph at lines 83--83
 sed: 2025-11-16. []$www . mapso^^\ndia .
  []
 
-[24
+[26
 
 
 ] (main.aux (intro.aux) (method.aux) (data.aux) (conclusion.aux)
@@ -1649,12 +1656,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50656 strings out of 409617
- 1155678 string characters out of 5774013
- 2102781 words of memory out of 5000000
- 72076 multiletter control sequences out of 15000+600000
+ 50683 strings out of 409617
+ 1156528 string characters out of 5774013
+ 2101850 words of memory out of 5000000
+ 72100 multiletter control sequences out of 15000+600000
  637947 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,13n,93p,1131b,5350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (25 pages).
+Output written on main.pdf (27 pages).
